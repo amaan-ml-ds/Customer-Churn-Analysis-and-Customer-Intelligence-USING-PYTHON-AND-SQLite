@@ -1,4 +1,4 @@
-# Customer Churn Analysis and Customer Intelligence
+# Customer Churn Analysis and Customer Intelligence USING PYTHON AND SQLite
 
 ## Overview
 
